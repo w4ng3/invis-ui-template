@@ -11,7 +11,7 @@ defineProps<{
       You’ve successfully created a project with
       <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a> +
-      <a href="https://invis-ui.vercel.app/" target="_blank" rel="noopener">SSYUI</a>
+      <a href="https://invis-ui.vercel.app/" target="_blank" rel="noopener">Invis UI</a>
       . What's next?
     </h3>
   </div>

@@ -1,7 +1,7 @@
 {
-  "name": "ssy-ui-template",
+  "name": "@w4ng3/invis-ui-template",
   "version": "1.0.0",
-  "description": "ssy-ui-template模版项目",
+  "description": "invis-ui-template模版项目",
   "author": "w4ng3",
   "private": true,
   "type": "module",
@@ -15,7 +15,7 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
-    "@w4ng3/invis-ui": "^0.1.4",
+    "@w4ng3/invis-ui": "^0.2.0",
     "pinia": "^2.2.4",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"

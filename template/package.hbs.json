@@ -1,7 +1,7 @@
 {
   "name": "{{ name }}",
   "version": "1.0.0",
-  "description": "ssy-ui-template模版项目",
+  "description": "invis-ui-template模版项目",
   "author": "w4ng3",
   "private": true,
   "type": "module",
